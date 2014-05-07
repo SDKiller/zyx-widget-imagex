@@ -5,9 +5,9 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/SDKiller/zyx-phpmailer/issues",
-        "wiki": "https://github.com/SDKiller/zyx-phpmailer/wiki",
-        "source": "https://github.com/SDKiller/zyx-phpmailer"
+        "issues": "https://github.com/SDKiller/zyx-widget-imagex/issues",
+        "wiki": "https://github.com/SDKiller/zyx-widget-imagex/wiki",
+        "source": "https://github.com/SDKiller/zyx-widget-imagex"
     },
     "authors": [
         {
