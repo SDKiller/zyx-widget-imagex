@@ -1,0 +1,24 @@
+{
+    "name": "zyx/widgets/html/imagex",
+    "description": "Adding opengraph meta tags and microdata markdown to images",
+    "keywords": ["opengraph", "microdata", "image", "images", "schema.org"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/SDKiller/zyx-phpmailer/issues",
+        "wiki": "https://github.com/SDKiller/zyx-phpmailer/wiki",
+        "source": "https://github.com/SDKiller/zyx-phpmailer"
+    },
+    "authors": [
+        {
+            "name": "Serge Postrash aka SDKiller",
+            "email": "jexy.ru@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "zyx\\widgets\\html\\imagex\\": "" }
+    }
+}
