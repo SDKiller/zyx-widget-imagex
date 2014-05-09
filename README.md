@@ -8,7 +8,8 @@ ImageX
 
 
 
-Widget for simple generating OpenGraph meta tags and Schema.org markdown for images ('X' stands for 'eXtended').
+Widget for simple generating OpenGraph meta tags and Schema.org markdown for images
+_('X' stands for 'eXtended')_.
 
 You may do absolutely nothing - OpenGraph meta tags and Schema.org markdown will be generated 'on-the-fly' from image properties (which you can still define like you do in ```Html::img()```).
 
@@ -53,7 +54,7 @@ Just add following string to your layout
 use zyx\widgets\ImageX;
 ```
 
-And call widget where the image is supposed to be instaed of usual ```Html::img()```:
+And call widget where the image is supposed to be instead of usual ```Html::img()```:
 
 ```
 echo ImageX::widget([
