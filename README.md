@@ -1,6 +1,13 @@
 ImageX
 =======
 
+[![Latest Stable Version](https://poser.pugx.org/zyx/widget-imagex/v/stable.png)](https://packagist.org/packages/zyx/widget-imagex)
+[![Latest Unstable Version](https://poser.pugx.org/zyx/widget-imagex/v/unstable.png)](https://packagist.org/packages/zyx/widget-imagex)
+[![Total Downloads](https://poser.pugx.org/zyx/widget-imagex/downloads.png)](https://packagist.org/packages/zyx/widget-imagex)
+[![License](https://poser.pugx.org/zyx/widget-imagex/license.png)](https://packagist.org/packages/zyx/widget-imagex)
+
+
+
 Widget for simple generating OpenGraph meta tags and Schema.org markdown for images ('X' stands for 'eXtended').
 
 You may do absolutely nothing - OpenGraph meta tags and Schema.org markdown will be generated 'on-the-fly' from image properties (which you can still define like you do in ```Html::img()```).
@@ -50,9 +57,9 @@ And call widget where the image is supposed to be instaed of usual ```Html::img(
 
 ```
 echo ImageX::widget([
-                  'src' => 'http://static.yiiframework.com/css/img/logo.png', 
-                  'options' => ['width' => 280, 'height' => 60], 
-                  'og' => [], 
+                  'src' => 'http://static.yiiframework.com/css/img/logo.png',
+                  'options' => ['width' => 280, 'height' => 60],
+                  'og' => [],
                   'md' => ['div_class' => 'image_wrap']
                 ]);
 
@@ -96,7 +103,7 @@ So you can just call:
 
 ```
 echo ImageX::widget([
-                  'src' => 'http://static.yiiframework.com/css/img/logo.png', 
+                  'src' => 'http://static.yiiframework.com/css/img/logo.png',
                   'options' => ['width' => 280, 'height' => 60]
                 ]);
 
