@@ -6,6 +6,7 @@ ImageX
 [![Total Downloads](https://poser.pugx.org/zyx/widget-imagex/downloads.png)](https://packagist.org/packages/zyx/widget-imagex)
 [![License](https://poser.pugx.org/zyx/widget-imagex/license.png)](https://packagist.org/packages/zyx/widget-imagex)
 [![Code Climate](https://codeclimate.com/github/SDKiller/zyx-widget-imagex.png)](https://codeclimate.com/github/SDKiller/zyx-widget-imagex)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SDKiller/zyx-widget-imagex/badges/quality-score.png)](https://scrutinizer-ci.com/g/SDKiller/zyx-widget-imagex/)
 
 
 
